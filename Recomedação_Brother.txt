@@ -1,0 +1,5 @@
+- Quanto mais pesado é o surfista, maior deve ser a prancha;
+
+- Quanto menor o tamanho da prancha, maior a dificuldade;
+
+- Pranchas menores precisam de ondas com maior potência;
